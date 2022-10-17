@@ -29,6 +29,7 @@ def setup(n):
         pole1.append(n - i)
     return
 
+#n is the amount of disks in the game
 n = 10
 setup(n)
 print_towers()
